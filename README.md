@@ -2,5 +2,5 @@
 
 For an infinite square well, its potential energy is
 ```math
-\sqrt{2x}
+V(x) = \begin{cases} 0 \quad (0\le x \le L) \\ \infty \quad \text{elsewhere} \end{cases}
 ```
