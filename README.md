@@ -1,2 +1,6 @@
-# infinite-square-well
-A simulation of quantum physics in the topic of infinite square well written purely in Python.
+## Time-Independent Schrodinger Equation
+
+For an infinite square well, its potential energy is
+```math
+\sqrt{2x}
+```
